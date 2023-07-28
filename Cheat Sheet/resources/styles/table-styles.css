@@ -1,0 +1,22 @@
+.styled-table {
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+.styled-table thead tr {
+  background-color: #ffeecc;
+  text-align: left;
+}
+
+.styled-table th,
+.styled-table td {
+  padding: 12px 15px;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+  background-color: #faf0d7;
+}
+
+.html-element {
+  background-color: #ece5c7;
+}

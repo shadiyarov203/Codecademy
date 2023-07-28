@@ -1,0 +1,28 @@
+main {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.code-block {
+  padding: 10px 20px;
+  /* background-color: #213555; */
+  background-color: #001c30;
+  margin-top: 15px;
+}
+
+.selector {
+  /* color: #ed2b2a; */
+  color: #eb5353;
+}
+
+.property {
+  color: #5d9c59;
+}
+
+.value {
+  color: #187498;
+}
+
+.white {
+  color: white;
+}
